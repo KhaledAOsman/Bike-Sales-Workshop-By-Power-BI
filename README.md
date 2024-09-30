@@ -3,10 +3,15 @@
 ## Key Metrics:
 
 Sum of Units Sold: 861.13K units.
+
 Sum of Sales: 92.31M.
+
 Sum of COGS: 79.30M.
+
 Sum of Profit: 13.02M.
+
 Percentage of Profit: 14.10%.
+
 ## Visualizations:
 
 Pie Chart: Shows the sum of discounts by discount band, categorized into "High," "Medium," "Low," and "None."
