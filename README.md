@@ -15,7 +15,11 @@ Percentage of Profit: 14.10%.
 ## Visualizations:
 
 Pie Chart: Shows the sum of discounts by discount band, categorized into "High," "Medium," "Low," and "None."
+
 Sales & Profit by Month: Line charts depict trends in sales, COGS, and profit for each month.
+
 Sum of Sales by Product: A bar chart shows sales for different bike models (e.g., Paseo, VTT, Carretera).
+
 Sum of Sales by Segment: Another bar chart shows sales by segment, with "Government" and "Small Business" leading.
+
 Geographical Sales: A map indicates where units were sold by country.
